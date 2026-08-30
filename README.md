@@ -20,13 +20,19 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 <!---LeetCode Topics End-->
