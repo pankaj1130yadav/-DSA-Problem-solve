@@ -26,12 +26,14 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -48,4 +50,5 @@
 | [0162-find-peak-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0162-find-peak-element/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 <!---LeetCode Topics End-->
