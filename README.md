@@ -26,6 +26,7 @@
 | [0162-find-peak-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0162-find-peak-element/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -38,6 +39,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -63,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1046-last-stone-weight/) | Easy |
@@ -79,10 +83,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +122,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
