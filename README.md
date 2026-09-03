@@ -30,6 +30,7 @@
 | [0875-koko-eating-bananas](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1046-last-stone-weight](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1046-last-stone-weight/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 ## Sorting
@@ -73,6 +74,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1046-last-stone-weight](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1046-last-stone-weight/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
