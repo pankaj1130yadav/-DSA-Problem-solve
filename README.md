@@ -104,6 +104,7 @@
 | [0584-find-customer-referee](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Geometry
