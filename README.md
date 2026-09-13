@@ -81,6 +81,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1496-path-crossing](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1496-path-crossing/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +158,7 @@
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [1496-path-crossing](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1496-path-crossing/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
