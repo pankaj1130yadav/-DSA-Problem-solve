@@ -82,6 +82,7 @@
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1496-path-crossing](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1496-path-crossing/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1496-path-crossing](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1496-path-crossing/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
