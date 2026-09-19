@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0162-find-peak-element/) | Medium |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -183,6 +185,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 ## Queue
