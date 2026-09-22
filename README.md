@@ -22,6 +22,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -186,6 +187,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
