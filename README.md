@@ -23,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0027-remove-element/) | Easy |
+| [0055-jump-game](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
@@ -220,6 +221,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Bubble Sort
@@ -229,5 +231,6 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
