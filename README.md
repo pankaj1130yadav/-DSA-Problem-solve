@@ -49,6 +49,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1496-path-crossing](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1496-path-crossing/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +136,7 @@
 | [0383-ransom-note](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
