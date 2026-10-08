@@ -40,6 +40,7 @@
 | [0498-diagonal-traverse](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0498-diagonal-traverse/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -229,6 +230,7 @@
 | [0076-minimum-window-substring](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0076-minimum-window-substring/) | Hard |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
