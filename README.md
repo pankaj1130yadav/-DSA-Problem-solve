@@ -50,6 +50,7 @@
 | [1329-sort-the-matrix-diagonally](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
@@ -231,6 +232,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2090-k-radius-subarray-averages/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
