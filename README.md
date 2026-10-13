@@ -190,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0013-roman-to-integer/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0076-minimum-window-substring/) | Hard |
 | [0383-ransom-note](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0383-ransom-note/) | Easy |
@@ -214,6 +215,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
@@ -271,4 +273,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0498-diagonal-traverse/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
