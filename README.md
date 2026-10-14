@@ -80,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0013-roman-to-integer/) | Easy |
+| [0043-multiply-strings](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0189-rotate-array/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -192,6 +193,7 @@
 | [0013-roman-to-integer](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0043-multiply-strings](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0076-minimum-window-substring/) | Hard |
 | [0383-ransom-note](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -272,6 +274,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0043-multiply-strings/) | Medium |
 | [0498-diagonal-traverse](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0498-diagonal-traverse/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
