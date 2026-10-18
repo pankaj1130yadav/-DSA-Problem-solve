@@ -22,6 +22,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0027-remove-element/) | Easy |
 | [0045-jump-game-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0055-jump-game/) | Medium |
@@ -216,6 +217,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
@@ -249,6 +251,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
