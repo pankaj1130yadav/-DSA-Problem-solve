@@ -49,6 +49,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1046-last-stone-weight/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -244,6 +245,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
