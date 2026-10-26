@@ -202,6 +202,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0125-valid-palindrome/) | Easy |
 | [0383-ransom-note](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -229,6 +230,7 @@
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
