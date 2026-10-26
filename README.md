@@ -48,6 +48,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1046-last-stone-weight/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -70,6 +71,7 @@
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -235,6 +237,7 @@
 | [0189-rotate-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
