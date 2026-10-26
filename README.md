@@ -86,6 +86,7 @@
 | [0013-roman-to-integer](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0189-rotate-array/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -303,4 +304,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
