@@ -114,6 +114,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0076-minimum-window-substring](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0141-linked-list-cycle/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0383-ransom-note/) | Easy |
@@ -239,6 +240,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0189-rotate-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
@@ -332,4 +334,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0881-boats-to-save-people/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0141-linked-list-cycle/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
