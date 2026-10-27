@@ -59,6 +59,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2090-k-radius-subarray-averages/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2706-buy-two-chocolates](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
@@ -244,6 +245,7 @@
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0881-boats-to-save-people/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -301,6 +303,7 @@
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0043-multiply-strings/) | Medium |
 | [0498-diagonal-traverse](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0498-diagonal-traverse/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
