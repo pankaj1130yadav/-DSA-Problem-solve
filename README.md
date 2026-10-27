@@ -4,6 +4,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0145-binary-tree-postorder-traversal](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0055-jump-game/) | Medium |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
@@ -229,6 +231,7 @@
 | [0011-container-with-most-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
@@ -277,6 +280,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -313,4 +317,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0371-sum-of-two-integers/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
