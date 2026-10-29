@@ -94,6 +94,7 @@
 | [0013-roman-to-integer](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0202-happy-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -116,6 +117,7 @@
 | [0076-minimum-window-substring](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0202-happy-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0383-ransom-note/) | Easy |
@@ -244,6 +246,7 @@
 | [0141-linked-list-cycle](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0881-boats-to-save-people/) | Medium |
@@ -344,4 +347,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
