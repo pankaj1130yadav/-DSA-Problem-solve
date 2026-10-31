@@ -9,15 +9,18 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0100-same-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0100-same-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0100-same-tree/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Array
@@ -350,4 +353,8 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0202-happy-number/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0100-same-tree](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
