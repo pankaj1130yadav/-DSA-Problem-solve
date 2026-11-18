@@ -56,6 +56,7 @@
 | [0881-boats-to-save-people](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1046-last-stone-weight](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1046-last-stone-weight/) | Easy |
 | [1329-sort-the-matrix-diagonally](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -111,6 +112,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 ## Hash Table
@@ -272,6 +274,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2090-k-radius-subarray-averages/) | Medium |
@@ -280,6 +283,7 @@
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Union-Find
