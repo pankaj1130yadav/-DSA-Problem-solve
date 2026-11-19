@@ -54,6 +54,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0881-boats-to-save-people](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -133,6 +134,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1496-path-crossing](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1496-path-crossing/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -274,6 +276,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
