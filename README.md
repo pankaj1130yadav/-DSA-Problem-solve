@@ -46,6 +46,7 @@
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0480-sliding-window-median](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0480-sliding-window-median/) | Hard |
 | [0498-diagonal-traverse](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0498-diagonal-traverse/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -134,6 +135,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0480-sliding-window-median](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0480-sliding-window-median/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -152,6 +154,7 @@
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0480-sliding-window-median](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0480-sliding-window-median/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -279,6 +282,7 @@
 | [0076-minimum-window-substring](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0480-sliding-window-median](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0480-sliding-window-median/) | Hard |
 | [0567-permutation-in-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -377,4 +381,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0100-same-tree/) | Easy |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0480-sliding-window-median](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0480-sliding-window-median/) | Hard |
 <!---LeetCode Topics End-->
