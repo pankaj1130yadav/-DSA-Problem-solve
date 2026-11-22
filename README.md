@@ -41,6 +41,7 @@
 | [0162-find-peak-element](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0274-h-index/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -294,6 +295,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0713-subarray-product-less-than-k/) | Medium |
