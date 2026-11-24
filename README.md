@@ -44,6 +44,7 @@
 | [0238-product-of-array-except-self](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0274-h-index/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -212,6 +213,7 @@
 | [0155-min-stack](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0155-min-stack/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
@@ -249,6 +251,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0498-diagonal-traverse](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0498-diagonal-traverse/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
@@ -298,6 +301,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0304-range-sum-query-2d-immutable](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0724-find-pivot-index/) | Easy |
