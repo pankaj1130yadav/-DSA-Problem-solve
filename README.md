@@ -69,6 +69,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -308,6 +309,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
