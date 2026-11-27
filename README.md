@@ -74,6 +74,7 @@
 | [2090-k-radius-subarray-averages](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2270-number-of-ways-to-split-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Sorting
@@ -311,6 +312,7 @@
 | [1422-maximum-score-after-splitting-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1422-maximum-score-after-splitting-a-string/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [2270-number-of-ways-to-split-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2270-number-of-ways-to-split-array/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
