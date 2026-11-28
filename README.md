@@ -82,6 +82,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0274-h-index/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -135,6 +136,7 @@
 | [0141-linked-list-cycle](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0202-happy-number/) | Easy |
+| [0242-valid-anagram](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0383-ransom-note/) | Easy |
@@ -237,6 +239,7 @@
 | [0043-multiply-strings](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0043-multiply-strings/) | Medium |
 | [0076-minimum-window-substring](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0125-valid-palindrome/) | Easy |
+| [0242-valid-anagram](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/pankaj1130yadav/-DSA-Problem-solve/tree/main/0424-longest-repeating-character-replacement/) | Medium |
